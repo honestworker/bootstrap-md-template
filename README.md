@@ -1,1 +1,1 @@
-# bootstrap-md-template
+# Bootstrap Material Template
